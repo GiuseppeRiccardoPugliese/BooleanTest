@@ -1,0 +1,64 @@
+body{
+    background-image: url(img/background.png);
+    background-attachment: fixed;  
+    background-size: cover;
+}
+.contenitore{
+    width: 1100px;
+    margin: 20px auto;
+    padding: 100px;
+    background-color: #00000077;
+    border-radius: 15px;
+}
+img{
+    width: 250px;
+    display: block;
+    margin: 10px auto;
+}
+header h1{
+    color: #32CD32;
+    text-align: center;
+    font-family: Century Gothic;
+    margin: 6px;
+}
+nav{
+    background-color: #32CD32;
+    text-align: center;
+    padding: 15px;
+}
+main{
+    color: white;
+    font-family: Century Gothic;
+}
+.carica-media{
+    width: 300px;
+    background-color: orange;
+}
+.carica-alta{
+    background-color: #32CD32;
+    width: 550px;
+}
+.carica-bassa{
+    background-color: rgb(156, 17, 59);
+    width: 125px;
+}
+.carica{
+    
+    padding: 15px;
+    border-radius: 5px;
+}
+input:hover{
+    cursor: pointer;
+}
+h2{
+    display: inline;
+}
+.margine{
+    margin: 10px 0;
+}
+p{
+    margin: 1px;
+}
+.margine-due{
+    margin: 1rem 0;
+}
